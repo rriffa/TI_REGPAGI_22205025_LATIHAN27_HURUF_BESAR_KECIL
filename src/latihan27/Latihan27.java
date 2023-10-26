@@ -10,6 +10,7 @@ import java.util.Scanner;
  Nama :Ma'rifatu Khirzah
  NIM :22205025
  Prodi :Teknik Informatika
+ Deskripsi :Membuat program menampilkan formatting kalimat huruf besar dan kecil dimana user menginput.
  */
 public class Latihan27 {
 
